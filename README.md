@@ -10,7 +10,7 @@ Passionate about innovation, startups, engineering, and creating impactful digit
   <a href="https://www.youtube.com/c/DevProTips">
     <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
   <a href="https://prapathomsit123.itch.io">
-    <img alt="itch.io" title="View on itch.io" src="![](https://mywebsite.com/images/banner.png)"/></a>
+    <img alt="itch.io" title="View on itch.io" src="https://ibb.co/kL41C9q"/></a>
   <a href="https://github.com/DenverCoder1?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
