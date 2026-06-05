@@ -19,10 +19,9 @@ Passionate about innovation, startups, engineering, and creating impactful digit
 
 I'm an indie full-stack developer passionate about building software, games, websites, and applications. Every project I create is an opportunity to learn, experiment, and improve my skills as a developer. I enjoy solving problems, exploring new technologies, and turning ideas into real products. My goal is to continuously grow as an engineer and one day create innovative solutions that can make a meaningful impact on people's lives
 
-<p align="left" width="40px">
-<img src="https://i.pinimg.com/originals/0a/32/84/0a32845e7013e1ecf001324de06fb2de.gif" alt="..."/> 
-<img src="https://giffiles.alphacoders.com/207/207896.gif" alt="..."/>
-</p>" 
+<img align="left" width="40px src="https://i.pinimg.com/originals/0a/32/84/0a32845e7013e1ecf001324de06fb2de.gif" alt="..."/> 
+<img align="left" width="40px src="https://giffiles.alphacoders.com/207/207896.gif" alt="..."/>
+
 
 ### 📚 Study At
 
