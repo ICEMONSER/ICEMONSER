@@ -13,6 +13,6 @@ Passionate about innovation, startups, engineering, and creating impactful digit
     <img alt="itch.io" title="View on my itch.io" src="https://i.ibb.co/Hctd8xG/Itch-io-2.png" width="120"
      height="30"/></a>
   <a href="https://github.com/ICEMONSER">
-    <img alt="followers" title="Follow me on Github" src="https://i.ibb.co/JZbTFX1/Github-star.png" width="120"
+    <img alt="followers" title="Follow me on Github" src="https://i.ibb.co/JZbTFX1/Github-star.png" width="180"
      height="30"/></a>
 </p>
