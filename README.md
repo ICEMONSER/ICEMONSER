@@ -4,7 +4,7 @@
 
 Indie Developer • Game Developer • Programmer • AI Enthusiast
 Passionate about innovation, startups, engineering, and creating impactful digital experiences
-<p align="center">
+<p align="left">
   <a href="https://www.youtube.com/@Prapathomsit">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
   <a href="https://www.youtube.com/c/DevProTips">
