@@ -19,6 +19,18 @@ Passionate about innovation, startups, engineering, and creating impactful digit
 
 I'm an indie full-stack developer passionate about building software, games, websites, and applications. Every project I create is an opportunity to learn, experiment, and improve my skills as a developer. I enjoy solving problems, exploring new technologies, and turning ideas into real products. My goal is to continuously grow as an engineer and one day create innovative solutions that can make a meaningful impact on people's lives
 
+### Study At
+
+>>>🎓 Computer Engineering and Digital Technology (CEDT) Student at Chulalongkorn University<<<
+
+
+### 💻 Working On
+.Building personal software and game development projects
+.Exploring Artificial Intelligence and automation
+.Participating in innovation and startup competitions
+.📈 Learning investment strategies and gold trading markets
+
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
@@ -33,5 +45,6 @@ I'm an indie full-stack developer passionate about building software, games, web
 <img align="left" alt="" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"/>
 <img align="left" alt="" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg"/>
 <img align="left" alt="" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
+
 
 
