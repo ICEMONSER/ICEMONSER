@@ -18,3 +18,9 @@ Passionate about innovation, startups, engineering, and creating impactful digit
 </p>
 
 I'm an indie full-stack developer passionate about building software, games, websites, and applications. Every project I create is an opportunity to learn, experiment, and improve my skills as a developer. I enjoy solving problems, exploring new technologies, and turning ideas into real products. My goal is to continuously grow as an engineer and one day create innovative solutions that can make a meaningful impact on people's lives
+
+### Languages and Tools
+
+<img aling="left" alt="" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/><br />
+
+
