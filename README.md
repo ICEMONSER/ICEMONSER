@@ -21,7 +21,7 @@ I'm an indie full-stack developer passionate about building software, games, web
 
 ### 📚 Study At
 
-.Computer Engineering and Digital Technology (CEDT) Student at Chulalongkorn University.
+.Computer Engineering and Digital Technology (CEDT) Student at Chulalongkorn University
 
 
 ### 💻 Working On
