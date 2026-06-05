@@ -13,6 +13,5 @@ Passionate about innovation, startups, engineering, and creating impactful digit
     <img alt="itch.io" title="View on itch.io" src="https://i.ibb.co/Hctd8xG/Itch-io-2.png" width="120"
      height="28"/></a>
   <a href="https://github.com/DenverCoder1?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" width="120"
-     height="28"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" /></a>
 </p>
