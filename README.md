@@ -19,6 +19,10 @@ Passionate about innovation, startups, engineering, and creating impactful digit
 
 I'm an indie full-stack developer passionate about building software, games, websites, and applications. Every project I create is an opportunity to learn, experiment, and improve my skills as a developer. I enjoy solving problems, exploring new technologies, and turning ideas into real products. My goal is to continuously grow as an engineer and one day create innovative solutions that can make a meaningful impact on people's lives
 
+<p align="left">
+<img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.pinterest.com%2Fjosehgonzales%2Fdeadpool-funny%2F&ved=0CBUQjRxqFwoTCJinluXf75QDFQAAAAAdAAAAABAG&opi=89978449" alt="..."/>
+</p>
+
 ### 📚 Study At
 
 - Computer Engineering and Digital Technology (CEDT) Student at Chulalongkorn University
