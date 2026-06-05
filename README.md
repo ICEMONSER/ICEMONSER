@@ -21,7 +21,7 @@ I'm an indie full-stack developer passionate about building software, games, web
 
 <p align="left">
 <img src="https://i.pinimg.com/originals/0a/32/84/0a32845e7013e1ecf001324de06fb2de.gif"/>
-<img src="https://giffiles.alphacoders.com/207/207896.gif" width="500" height="200"/>
+<img src="https://giffiles.alphacoders.com/207/207896.gif" width="520" height="220"/>
 </p>
 
 ### 📚 Study At
