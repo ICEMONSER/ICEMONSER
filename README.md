@@ -8,7 +8,7 @@ Passionate about innovation, startups, engineering, and creating impactful digit
   <a href="https://www.youtube.com/@Prapathomsit">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
   <a href="https://www.youtube.com/c/DevProTips">
-    <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
+    <img alt="youtube views" title="YouTube views" src="https://i.ibb.co/TXG0c4s/Tiktokicon.png" width="120" height="28"/></a> 
   <a href="https://prapathomsit123.itch.io">
     <img alt="itch.io" title="View on itch.io" src="https://i.ibb.co/Hctd8xG/Itch-io-2.png" width="120"
      height="28"/></a>
