@@ -51,13 +51,16 @@ I'm an indie full-stack developer passionate about building software, games, web
 <img align="left" alt="" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg"/>
 <img align="left" alt="" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
 </p>
-  
+
 <br clear="all" />
-</br>
-### ✉️ CONTACT FOR WORK
+
+<h3>✉️ CONTACT FOR WORK</h3>
+
+<p align="left">
   <a href="https://docs.google.com/document/d/1TMpSGPDte7lLcwPcK2jEN3IAQeq-LPYWjoZSuSXcOpA/edit?usp=sharing/">
-    <img alt="Gmail" title="My Gmail" src="https://i.ibb.co/0jGGdzbv/Gmailicon.png" width="120" height="30"/> </a>
-  
+    <img alt="Gmail" title="My Gmail" src="https://i.ibb.co/0jGGdzbv/Gmailicon.png" width="120" height="30"/>
+  </a>
+</p>
 
 
 
