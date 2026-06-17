@@ -56,9 +56,9 @@ Regional & Others
 - Dream Frog Hunt – 2D action game developed from a 48-hour game jam competition.
 - CENTORIS – 2D platformer game currently being refined for future store release.
 - DICE – Physics-based puzzle game inspired by crossword mechanics.(practice project)
-- Automated Chlorine Distribution System** – Smart swimming pool chlorine distribution hardware project.
-- Smart Assistive Device for the Visually Impaired** – Sensor-based device for obstacle detection and navigation assistance.
-
+- Automated Chlorine Distribution System – Smart swimming pool chlorine distribution hardware project.
+- Smart Assistive Device for the Visually Impaired – Sensor-based device for obstacle detection and navigation assistance.
+- GoldValue - A website for accurately calculating gold prices, profit, loss, and percentage returns.
 
 
 ### 💻 Working On
