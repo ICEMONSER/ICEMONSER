@@ -25,6 +25,12 @@ I'm an indie full-stack developer passionate about building software, games, web
 - Computer Engineering and Digital Technology (CEDT) Student at Chulalongkorn University
 
 
+### 📄Experience & Internship
+
+- Internship Trainee - Charoenkrung Pracharak Hospital (Youth Yellow Birds)
+- Teaching - at Skillup 
+
+
 ### 🏅Honors & Awards 
 
 National Level
@@ -43,12 +49,24 @@ Regional & Others
 - 🥈Silver Medal Award - Sarasas Project Based Learning Exhibition 2024 (District Level)
 - 🏆Popular Vote Award  - Sarasas Project Based Learning Exhibition 2024 (9.8K Shares)
 
+### ⚙️Projects
+- Z.O.O. – 3D role-playing investigation game with AI-powered NPC interactions using API ChatGPT model 3.5
+- ECOVST+ – Community investment-learning web platform developed during KMITL Game Jam Reality Show.
+- Try Not to Chip! – 3D platformer about a living potato escaping a snack factory.
+- Dream Frog Hunt – 2D action game developed from a 48-hour game jam competition.
+- CENTORIS – 2D platformer game currently being refined for future store release.
+- DICE – Physics-based puzzle game inspired by crossword mechanics.(practice project)
+- Automated Chlorine Distribution System** – Smart swimming pool chlorine distribution hardware project.
+- Smart Assistive Device for the Visually Impaired** – Sensor-based device for obstacle detection and navigation assistance.
+
+
 
 ### 💻 Working On
 - Building personal software and game development projects
 - Exploring Artificial Intelligence and automation
 - Participating in innovation and startup competitions
 - Learning investment strategies and gold trading markets
+
 
 
 ### 🧰 Languages and Tools
