@@ -29,14 +29,14 @@ I'm an indie full-stack developer passionate about building software, games, web
 
 National Level
 
--🎖️Honorable Mention - National Software Contest 2025 (Entertainment Software)
--🧑🏻‍💻Participate -KMITL GAME JAM Reality Show (Selected as one of the top 20 onsite finalists out of 300+ initial applicants)
+- 🎖️Honorable Mention - National Software Contest 2025 (Entertainment Software)
+- 🧑🏻‍💻Participate -KMITL GAME JAM Reality Show (Selected as one of the top 20 onsite finalists out of 300+ initial applicants)
 
 Community Tournament
 
--🧑🏻‍💻 Participate - Nuutor CUP Game Jam Tournament (Developed "Dream Frog Hunt" within a 48-hour Game Jam Competition)
--🧑🏻‍💻 Participate - อยากสร้างเกม Season 2 (Developed "CENTORIS", a 2D Platformer Game and Continued Development for Future Store Release)
--🧑🏻‍💻 Participate - Gamejam X Developed "Try not to chip!",A 3D platformer where a living potato escapes a snack factory
+- 🧑🏻‍💻Participate - Nuutor CUP Game Jam Tournament (Developed "Dream Frog Hunt" within a 48-hour Game Jam Competition)
+- 🧑🏻‍💻Participate - อยากสร้างเกม Season 2 (Developed "CENTORIS", a 2D Platformer Game and Continued Development for Future Store Release)
+- 🧑🏻‍💻Participate - Gamejam X Developed "Try not to chip!",A 3D platformer where a living potato escapes a snack factory
 
 Regional & Others
 
