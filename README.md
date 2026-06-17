@@ -40,8 +40,8 @@ Community Tournament
 
 Regional & Others
 
--🥈 Silver Medal Award - Sarasas Project Based Learning Exhibition 2024 (District Level)
--🏆 Popular Vote Award  - Sarasas Project Based Learning Exhibition 2024 (9.8K Shares)
+- 🥈Silver Medal Award - Sarasas Project Based Learning Exhibition 2024 (District Level)
+- 🏆Popular Vote Award  - Sarasas Project Based Learning Exhibition 2024 (9.8K Shares)
 
 
 ### 💻 Working On
